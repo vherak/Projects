@@ -1,0 +1,1593 @@
+=============================== Start of Iteration 1 ===============================
+
+---------------------------------------------------------------
+				Alert Summary 0 in Iteration 1
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.000000
+Reporting Node          Coord          Temp
+12                      (2,2)           84
+
+Adjacent Nodes Temp     Coord          Temp
+7                       (1,2)           80
+17                      (3,2)           89
+11                      (2,1)           75
+13                      (2,3)           87
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 0 in Iteration 1
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.000041
+Reporting Node          Coord          Temp
+13                      (2,3)           87
+
+Adjacent Nodes Temp     Coord          Temp
+8                       (1,3)           77
+18                      (3,3)           82
+12                      (2,2)           84
+14                      (2,4)           80
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 0 in Iteration 1
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.000068
+Reporting Node          Coord          Temp
+15                      (3,0)           82
+
+Adjacent Nodes Temp     Coord          Temp
+10                      (2,0)           89
+20                      (4,0)           78
+16                      (3,1)           87
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Alert Type: True
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 1
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.000078
+Reporting Node          Coord          Temp
+16                      (3,1)           87
+
+Adjacent Nodes Temp     Coord          Temp
+11                      (2,1)           75
+21                      (4,1)           80
+15                      (3,0)           82
+17                      (3,2)           89
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 1
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.000150
+Reporting Node          Coord          Temp
+17                      (3,2)           89
+
+Adjacent Nodes Temp     Coord          Temp
+12                      (2,2)           84
+22                      (4,2)           89
+16                      (3,1)           87
+18                      (3,3)           82
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 1
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.000171
+Reporting Node          Coord          Temp
+18                      (3,3)           82
+
+Adjacent Nodes Temp     Coord          Temp
+13                      (2,3)           87
+23                      (4,3)           76
+17                      (3,2)           89
+19                      (3,4)           85
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 1
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.000192
+Reporting Node          Coord          Temp
+19                      (3,4)           85
+
+Adjacent Nodes Temp     Coord          Temp
+14                      (2,4)           80
+24                      (4,4)           89
+18                      (3,3)           82
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:01 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Number of adjacent matches to reporting node: 3
+
+
+=============================== End of Iteration 1 ===============================
+
+
+=============================== Start of Iteration 2 ===============================
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 2
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.081124
+Reporting Node          Coord          Temp
+1                       (0,1)           87
+
+Adjacent Nodes Temp     Coord          Temp
+6                       (1,1)           84
+0                       (0,0)           89
+2                       (0,2)           77
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 2
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.002982
+Reporting Node          Coord          Temp
+6                       (1,1)           84
+
+Adjacent Nodes Temp     Coord          Temp
+1                       (0,1)           87
+11                      (2,1)           77
+5                       (1,0)           78
+7                       (1,2)           82
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 2
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.069733
+Reporting Node          Coord          Temp
+7                       (1,2)           82
+
+Adjacent Nodes Temp     Coord          Temp
+2                       (0,2)           77
+12                      (2,2)           82
+6                       (1,1)           84
+8                       (1,3)           75
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 2
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.068796
+Reporting Node          Coord          Temp
+12                      (2,2)           82
+
+Adjacent Nodes Temp     Coord          Temp
+7                       (1,2)           82
+17                      (3,2)           82
+11                      (2,1)           77
+13                      (2,3)           80
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Number of adjacent matches to reporting node: 4
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 2
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.062371
+Reporting Node          Coord          Temp
+14                      (2,4)           87
+
+Adjacent Nodes Temp     Coord          Temp
+9                       (1,4)           89
+19                      (3,4)           87
+13                      (2,3)           80
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 2
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.069155
+Reporting Node          Coord          Temp
+15                      (3,0)           84
+
+Adjacent Nodes Temp     Coord          Temp
+10                      (2,0)           80
+20                      (4,0)           76
+16                      (3,1)           85
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 2
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.062849
+Reporting Node          Coord          Temp
+16                      (3,1)           85
+
+Adjacent Nodes Temp     Coord          Temp
+11                      (2,1)           77
+21                      (4,1)           89
+15                      (3,0)           84
+17                      (3,2)           82
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 2
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.061781
+Reporting Node          Coord          Temp
+17                      (3,2)           82
+
+Adjacent Nodes Temp     Coord          Temp
+12                      (2,2)           82
+22                      (4,2)           80
+16                      (3,1)           85
+18                      (3,3)           89
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 2
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.069407
+Reporting Node          Coord          Temp
+19                      (3,4)           87
+
+Adjacent Nodes Temp     Coord          Temp
+14                      (2,4)           87
+24                      (4,4)           87
+18                      (3,3)           89
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:02 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Number of adjacent matches to reporting node: 3
+
+
+=============================== End of Iteration 2 ===============================
+
+
+=============================== Start of Iteration 3 ===============================
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 3
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.003154
+Reporting Node          Coord          Temp
+6                       (1,1)           82
+
+Adjacent Nodes Temp     Coord          Temp
+1                       (0,1)           89
+11                      (2,1)           80
+5                       (1,0)           80
+7                       (1,2)           84
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 3
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.068818
+Reporting Node          Coord          Temp
+7                       (1,2)           84
+
+Adjacent Nodes Temp     Coord          Temp
+2                       (0,2)           75
+12                      (2,2)           80
+6                       (1,1)           82
+8                       (1,3)           89
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 3
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.061830
+Reporting Node          Coord          Temp
+13                      (2,3)           82
+
+Adjacent Nodes Temp     Coord          Temp
+8                       (1,3)           89
+18                      (3,3)           87
+12                      (2,2)           80
+14                      (2,4)           84
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 3
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.062723
+Reporting Node          Coord          Temp
+14                      (2,4)           84
+
+Adjacent Nodes Temp     Coord          Temp
+9                       (1,4)           75
+19                      (3,4)           89
+13                      (2,3)           82
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 3
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.069454
+Reporting Node          Coord          Temp
+15                      (3,0)           87
+
+Adjacent Nodes Temp     Coord          Temp
+10                      (2,0)           77
+20                      (4,0)           89
+16                      (3,1)           82
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 3
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.061966
+Reporting Node          Coord          Temp
+16                      (3,1)           82
+
+Adjacent Nodes Temp     Coord          Temp
+11                      (2,1)           80
+21                      (4,1)           76
+15                      (3,0)           87
+17                      (3,2)           85
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 3
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.061007
+Reporting Node          Coord          Temp
+17                      (3,2)           85
+
+Adjacent Nodes Temp     Coord          Temp
+12                      (2,2)           80
+22                      (4,2)           78
+16                      (3,1)           82
+18                      (3,3)           87
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 3
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.012979
+Reporting Node          Coord          Temp
+18                      (3,3)           87
+
+Adjacent Nodes Temp     Coord          Temp
+13                      (2,3)           82
+23                      (4,3)           80
+17                      (3,2)           85
+19                      (3,4)           89
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 3
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.068547
+Reporting Node          Coord          Temp
+19                      (3,4)           89
+
+Adjacent Nodes Temp     Coord          Temp
+14                      (2,4)           84
+24                      (4,4)           85
+18                      (3,3)           87
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 87
+Infrared Satellite Reporting Coord: (4,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 1 in Iteration 3
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.034807
+Reporting Node          Coord          Temp
+24                      (4,4)           85
+
+Adjacent Nodes Temp     Coord          Temp
+19                      (3,4)           89
+23                      (4,3)           80
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:03 2020
+Infrared Satellite Reporting (Celsius): 89
+Infrared Satellite Reporting Coord: (4,4)
+
+Alert Type: True
+Number of adjacent matches to reporting node: 2
+
+
+=============================== End of Iteration 3 ===============================
+
+
+=============================== Start of Iteration 4 ===============================
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 4
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.080960
+Reporting Node          Coord          Temp
+1                       (0,1)           82
+
+Adjacent Nodes Temp     Coord          Temp
+6                       (1,1)           89
+0                       (0,0)           84
+2                       (0,2)           80
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 4
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.068842
+Reporting Node          Coord          Temp
+7                       (1,2)           87
+
+Adjacent Nodes Temp     Coord          Temp
+2                       (0,2)           80
+12                      (2,2)           80
+6                       (1,1)           89
+8                       (1,3)           87
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 4
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.062602
+Reporting Node          Coord          Temp
+8                       (1,3)           87
+
+Adjacent Nodes Temp     Coord          Temp
+3                       (0,3)           78
+13                      (2,3)           77
+7                       (1,2)           87
+9                       (1,4)           84
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 4
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.069128
+Reporting Node          Coord          Temp
+20                      (4,0)           89
+
+Adjacent Nodes Temp     Coord          Temp
+15                      (3,0)           89
+21                      (4,1)           87
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 4
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.069018
+Reporting Node          Coord          Temp
+21                      (4,1)           87
+
+Adjacent Nodes Temp     Coord          Temp
+16                      (3,1)           80
+20                      (4,0)           89
+22                      (4,2)           85
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 4
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.069155
+Reporting Node          Coord          Temp
+22                      (4,2)           85
+
+Adjacent Nodes Temp     Coord          Temp
+17                      (3,2)           78
+21                      (4,1)           87
+23                      (4,3)           82
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 4
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.069046
+Reporting Node          Coord          Temp
+23                      (4,3)           82
+
+Adjacent Nodes Temp     Coord          Temp
+18                      (3,3)           76
+22                      (4,2)           85
+24                      (4,4)           82
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:04 2020
+Infrared Satellite Reporting (Celsius): 77
+Infrared Satellite Reporting Coord: (1,4)
+
+Number of adjacent matches to reporting node: 2
+
+
+=============================== End of Iteration 4 ===============================
+
+
+=============================== Start of Iteration 5 ===============================
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 5
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.003228
+Reporting Node          Coord          Temp
+6                       (1,1)           87
+
+Adjacent Nodes Temp     Coord          Temp
+1                       (0,1)           84
+11                      (2,1)           82
+5                       (1,0)           77
+7                       (1,2)           89
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Number of adjacent matches to reporting node: 3
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 5
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.019079
+Reporting Node          Coord          Temp
+0                       (0,0)           82
+
+Adjacent Nodes Temp     Coord          Temp
+5                       (1,0)           77
+1                       (0,1)           84
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 5
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.080179
+Reporting Node          Coord          Temp
+1                       (0,1)           84
+
+Adjacent Nodes Temp     Coord          Temp
+6                       (1,1)           87
+0                       (0,0)           82
+2                       (0,2)           78
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 5
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.068663
+Reporting Node          Coord          Temp
+7                       (1,2)           89
+
+Adjacent Nodes Temp     Coord          Temp
+2                       (0,2)           78
+12                      (2,2)           77
+6                       (1,1)           87
+8                       (1,3)           84
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 5
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.062223
+Reporting Node          Coord          Temp
+8                       (1,3)           84
+
+Adjacent Nodes Temp     Coord          Temp
+3                       (0,3)           80
+13                      (2,3)           80
+7                       (1,2)           89
+9                       (1,4)           87
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Number of adjacent matches to reporting node: 4
+
+
+
+---------------------------------------------------------------
+				Alert Summary 2 in Iteration 5
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.068460
+Reporting Node          Coord          Temp
+9                       (1,4)           87
+
+Adjacent Nodes Temp     Coord          Temp
+4                       (0,4)           75
+14                      (2,4)           89
+8                       (1,3)           84
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Alert Type: True
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 3 in Iteration 5
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.068742
+Reporting Node          Coord          Temp
+11                      (2,1)           82
+
+Adjacent Nodes Temp     Coord          Temp
+6                       (1,1)           87
+16                      (3,1)           78
+10                      (2,0)           80
+12                      (2,2)           77
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Number of adjacent matches to reporting node: 4
+
+
+
+---------------------------------------------------------------
+				Alert Summary 3 in Iteration 5
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.069425
+Reporting Node          Coord          Temp
+22                      (4,2)           82
+
+Adjacent Nodes Temp     Coord          Temp
+17                      (3,2)           80
+21                      (4,1)           89
+23                      (4,3)           85
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Number of adjacent matches to reporting node: 2
+
+
+
+---------------------------------------------------------------
+				Alert Summary 3 in Iteration 5
+---------------------------------------------------------------
+Alert Reported Time:       Sat Oct 31 20:18:56 2020
+Communication Time: 0.068458
+Reporting Node          Coord          Temp
+23                      (4,3)           85
+
+Adjacent Nodes Temp     Coord          Temp
+18                      (3,3)           89
+22                      (4,2)           82
+24                      (4,4)           80
+
+Alert Type: False
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 82
+Infrared Satellite Reporting Coord: (3,0)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 84
+Infrared Satellite Reporting Coord: (1,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 78
+Infrared Satellite Reporting Coord: (4,1)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 80
+Infrared Satellite Reporting Coord: (3,4)
+
+Infrared Satellite Reporting Time: Sat Oct 31 20:18:05 2020
+Infrared Satellite Reporting (Celsius): 75
+Infrared Satellite Reporting Coord: (4,2)
+
+Number of adjacent matches to reporting node: 3
+
+
+=============================== End of Iteration 5 ===============================
+
+
+-------------------------End of Log-------------------------
+********* SUMMARY **********
+Total number of alerts: 42
+Total number of true alerts: 3
+Total number of false alerts: 39
+1,0,1,0,1,
