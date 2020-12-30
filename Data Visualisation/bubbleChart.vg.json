@@ -1,0 +1,135 @@
+{ "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+
+  "width": 400, 
+  "height": 300, 
+ "background": "#f6f4f3",
+  "title": "Co2 Emissions and Human Development Index per Country", 
+  "data": { "url": "https://raw.githubusercontent.com/Vherakaey/assignment2/main/bubbleChart.csv" }, 
+
+  "params": [ { "name": "Continent_selection",
+    "bind": { "input": "select", 
+      "options": 
+      [ null, 
+      "North America", 
+      "South America", 
+      "Europe", 
+      "Africa", 
+      "Asia", 
+      "Oceania" ], 
+      "labels":[ "Show All", 
+      "North America", 
+      "South America", 
+      "Europe", 
+      "Africa",
+       "Asia", 
+       "Oceania" ], 
+       "name": "Continent Selection: " } 
+       },
+       { "name": "Year_Slider", 
+       "value": 2000, 
+       "bind": 
+        { "input": "range", "min": 2000,
+          "max": 2016, 
+          "step": 1, 
+          "name": "Year"
+          } }
+        ],
+
+  "transform": [ 
+    {"filter": "datum.HDI > 0"},
+    {"filter": "Continent_selection == null || datum.Continent == Continent_selection"},
+    {"filter": "datum.Year == Year_Slider"},
+    {"filter": "datum.CO2Emissions > 0"}
+    
+    ],
+
+  "encoding": { 
+        "x": { 
+          "field": "CO2Emissions", 
+          "type": "quantitative", 
+          "title": "Co2 Emmissions",
+          "axis": {"tickCount": 3},
+          "scale": {"type": "log", "domain": [0.01, 70]}
+          
+          }, 
+        "y": { 
+          "field": "HDI", 
+          "type": "quantitative",
+          "title": "Human Development Index"
+          }
+  },
+  "layer":[ {
+  "mark": "circle", 
+        "encoding":{
+
+        "color": { 
+          "field": "Continent",
+          "type":"nominal",
+          "scale": 
+          { "domain": 
+          [ "North America", 
+          "South America", 
+          "Europe", 
+          "Africa", 
+          "Asia", 
+          "Oceania" 
+          ], 
+          "range": 
+          [ "#800000",
+          "#74a9cf",
+          "#8c6bb1",
+          "#08589e",
+          "#ff8080",
+          "#99d8c9" ] }
+          },
+          "opacity": { "value": 0.7 },
+          
+        "size": { 
+          "field": "Population", 
+          "type": "quantitative",
+          "scale": { 
+              "type": "threshold", 
+              "domain": [1000000, 10000000, 50000000,
+              100000000, 500000000],
+              "range": [50, 100, 300, 500, 600, 800] 
+            },
+          "legend": {"format": ".1s"}
+          },
+        "tooltip": [ 
+          {"field": "CountryName", "type":"nominal"},
+          {"field": "Continent", "type": "nominal"}, 
+          {"field": "CO2Emissions", "type": "quantitative"},
+          {"field": "HDI", "type": "quantitative"}
+           ] 
+      } 
+
+},
+  {
+    "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "CountryName", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['CountryName'] == 'China' || datum['CountryName'] == 'Malaysia' || datum['CountryName'] == 'Brazil' || datum['CountryName'] == 'India' || datum['CountryName'] == 'Cambodia' ||  datum['CountryName'] == 'United States'",
+            "value": 1
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "CountryName", "type":"nominal"},
+          {"field": "Continent", "type": "nominal"}, 
+          {"field": "CO2Emissions", "type": "quantitative"},
+          {"field": "HDI", "type": "quantitative"}
+        ]
+      }
+    }
+  ]
+}

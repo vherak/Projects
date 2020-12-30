@@ -1,0 +1,147 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "height":500,
+  "width":300,
+  "background": "#f6f4f3",
+  "title":"Percentage of Forest Area Change from 1990 to 2016",
+  "data": {
+    "url":"https://raw.githubusercontent.com/Vherakaey/assignment2/main/forestArea.csv"
+    
+  },
+  "transform": [{"filter":"datum['Difference In Forest Area'] < 100"}],
+  
+  "layer":[{
+  "mark": "boxplot",
+  "encoding": {
+    "x": {"field": "Continent", 
+          "type": "nominal",
+          "axis":{"title":null,"labelAngle":-30}
+          },
+    "size":{"value":40},
+    "color": {
+      "field": "Continent",
+      "type": "nominal",
+      "legend":null,
+    "scale": 
+          { "domain": 
+          [ "North America", 
+          "South America", 
+          "Europe", 
+          "Africa", 
+          "Asia", 
+          "Oceania" 
+          ], 
+          "range": 
+          [ "#800000",
+          "#74a9cf",
+          "#8c6bb1",
+          "#08589e",
+          "#ff8080",
+          "#99d8c9" ] }
+        },
+    "y": {
+      "field": "Difference In Forest Area",
+      "type": "quantitative",
+      "scale": {"zero": false},
+      "axis":{"tickCount":3}
+    },
+    "tooltip":[{"field":"Country","type":"nominal"},
+              {"field":"Difference In Forest Area","type": "quantitative"}
+    
+    ]
+  }
+  },
+  
+  {
+    "mark": {
+        "type": "text",
+        
+        "dx": -130,
+        "dy":-180,
+        "fontSize": 11.5,
+        "color":"dimgray",
+        "fontStyle": "italic"
+      },
+      "transform": [{"filter": {"field": "Country", "equal": "Egypt"}}],
+      "encoding": {"text": {"field": "Country"}}
+      
+    },
+
+    {
+    "mark": {
+        "type": "text",
+        
+        "dx": -80,
+        "dy":-210,
+        "fontSize": 11.5,
+        "color":"dimgray",
+        "fontStyle": "italic"
+      },
+      "transform": [{"filter": {"field": "Country", "equal": "Kuwait"}}],
+      "encoding": {"text": {"field": "Country"}}
+      
+    },
+
+    {
+    "mark": {
+        "type": "text",
+        
+        "dx": -30,
+        "dy":-165,
+        "fontSize": 11.5,
+        "color":"dimgray",
+        "fontStyle": "italic"
+      },
+      "transform": [{"filter": {"field": "Country", "equal": "Ireland"}}],
+      "encoding": {"text": {"field": "Country"}}
+      
+    },
+    {
+    "mark": {
+        "type": "text",
+        
+        "dx": 40,
+        "dy":-220,
+        "fontSize": 11.5,
+        "color":"dimgray",
+        "fontStyle": "italic"
+      },
+      "transform": [{"filter": {"field": "Country", "equal": "Dominican Republic"}}],
+      "encoding": {"text": {"field": "Country"}}
+    },
+
+    {
+    "mark": {
+        "type": "text",
+        
+        "dx": 80,
+        "dy":-80,
+        "fontSize": 11.5,
+        "color":"dimgray",
+        "fontStyle": "italic"
+      },
+      "transform": [{"filter": {"field": "Country", "equal": "Samoa"}}],
+      "encoding": {"text": {"field": "Country"}}
+      
+    },
+    {
+    "mark": {
+        "type": "text",
+        
+        "dx": 125,
+        "dy":-40,
+        "fontSize": 11.5,
+        "color":"dimgray",
+        "fontStyle": "italic"
+      },
+      "transform": [{"filter": {"field": "Country", "equal": "Chile"}}],
+      "encoding": {"text": {"field": "Country"}}
+      
+    }
+
+
+
+
+  ]
+  
+}

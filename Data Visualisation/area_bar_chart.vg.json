@@ -1,0 +1,188 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "spacing": 40,
+  "background": "#f6f4f3",
+  "title":{"text":"Environmental Impacts of Different Types of Meat", "align": "center",
+  "anchor": "middle","offset":30},
+   "vconcat": [
+     {
+  "width": 300, "height": 200,
+  "data": {"url": "https://raw.githubusercontent.com/Vherakaey/assignment2/main/protein.csv"},
+  "selection": {
+          "click": {
+            "fields": ["Meat"],
+            "type": "single",
+            "clear": false
+          },
+          "highlight": {"type": "single", "empty": "none", "on": "mouseover"},
+          "select": {"type": "multi"}
+        },
+  "mark": {
+    "type": "area",
+    "stroke": "black",
+    "cursor": "pointer"
+  },
+  
+  
+  "encoding": {
+    "x": {
+      "timeUnit": "year", "field": "Year",
+      "axis": {"format": "%Y"},
+      "title":"Year"
+    },
+    "y": {
+      "aggregate": "sum","field": "Consumption",
+      "title":"Meat Consumption per capita"
+    },
+    "color": {
+      "field": "Meat",
+      "type": "nominal",
+      "scale": {"range": ["#01665e","#bf812d","#f6e8c3",
+  
+        "#80cdc1"]}
+      
+    },
+    "tooltip": [
+            {
+              "field": "Meat",
+              "title": "Type of Meat"
+            },
+            {
+              "field": "Consumption",
+              "title": "Amount of consumption"
+            },
+            {
+              "field": "year_Year",
+              "title": "Year"
+            }
+          ],
+          "fillOpacity": {
+      "condition": {"selection": "select", "value": 1},
+      "value": 0.3
+    } ,
+     "strokeWidth": {
+      "condition": [
+        {
+          "test": {
+            "and": [
+              {"selection": "select"},
+              "length(data(\"select_store\"))"
+            ]
+          },
+          "value": 2
+        },
+        {"selection": "highlight", "value": 1}
+      ],
+      "value": 0
+    }  
+   }
+     },
+     
+   {
+     "hconcat":[
+    {
+   "data": {
+      "url": "https://raw.githubusercontent.com/Vherakaey/assignment2/main/barchart_meat.csv"
+  },
+  "transform": [
+          {"filter": {"selection": "click"}}
+          ],
+  "layer":[{
+  "mark":"bar",
+  "encoding": {
+    "x": {"field": "Category", 
+          "type": "nominal", 
+          "axis": {"labelAngle": 0},
+          "title":""
+          
+  },
+    "y": {"field": "Value", 
+          "type":"quantitative",
+          "axis":{"title":null},
+          "scale": {"domain": [0, 55]}},
+          "color":{"value":"#dfc27d"},
+    
+          "tooltip": [
+            {
+              "field": "Category",
+              "title": "Category"
+            },
+            {
+              "field": "Value",
+              "title": "Emmissions (kgCO₂eq)"
+            }
+          ]
+        }
+  }
+  ]
+  
+  },
+  {
+   "data": {
+    "url": "https://raw.githubusercontent.com/Vherakaey/assignment2/main/eutrophying.csv"
+  },
+  "transform": [
+          {"filter": {"selection": "click"}}
+          ]
+          ,
+  "mark":"bar",
+  "encoding": {
+  "x": {"field": "Category", 
+        "type": "nominal", 
+        "axis": {"labelAngle": 0},
+  "title":""
+  },
+    "y": {"field": "Value", 
+          "type":"quantitative",
+          "axis":{"title":null},
+    "scale": {"domain": [0, 305]}},
+    "color":{"value":"#dfc27d"},
+    "tooltip": [
+            {
+              "field": "Category",
+              "title": "Category"
+            },
+            {
+              "field": "Value",
+              "title": "Emissions (gPO₄eq)"
+            }
+          ]
+  }
+   },
+   {
+   "data": {
+    "url": "https://raw.githubusercontent.com/Vherakaey/assignment2/main/water_footprint.csv"
+  },
+  "transform": [
+          {"filter": {"selection": "click"}}
+          ]
+          ,
+  "mark":"bar",
+  "encoding": {
+  "x": {"field": "Category", "type": "nominal", "axis": {"labelAngle": 0},
+  "title":""
+  },
+    "y": {"field": "Value", "type": "quantitative",
+    "axis":{"title":null},
+    "scale": {"domain": [0, 3600]}},
+    "color":{"value":"#dfc27d"},
+    "tooltip": [
+            {
+              "field": "Category",
+              "title": "Category"
+            },
+            {
+              "field": "Value",
+              "title": "Water footprint (l)"
+            }
+          ]
+          
+  }
+   }
+     ]
+   }
+   ],
+  "config": {"view": {"stroke": null},
+   "axis": {"grid": false}}
+   
+    }

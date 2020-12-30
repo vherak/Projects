@@ -1,0 +1,102 @@
+{
+"$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+"width": 650, "height": 450, 
+"title": "Wildfires in America", 
+"background": "#f6f4f3",
+"projection": {"type": "equirectangular"}, 
+"params": [
+    {
+"name": "Category_Selection",
+"bind": {
+"input": "select",
+"options": [
+null,
+"Least Severe",
+"Less Severe",
+"Moderate",
+"Severe",
+"Very Severe",
+"Extremely Severe"
+        ],
+"labels":[
+  "Show All",
+"Least Severe",
+"Less Severe",
+"Moderate",
+"Severe",
+"Very Severe",
+"Extremely Severe"
+        ],
+"name": "Select a Category: "
+      }
+},
+  { "name": "Year_Slider", 
+"value": 2008, 
+"bind": 
+        { "input": "range", "min": 2008,
+"max": 2018, 
+"step": 1, 
+"name": "Year"
+          } }
+],
+"layer": [ 
+    { "data": { "url": "https://raw.githubusercontent.com/Vherakaey/assignment2/main/admin1-us.topojson",
+"format": {"type": "topojson", "feature": "admin1-us"} },
+"mark": {"type": "geoshape", 
+"fill": "#f5f5f5", 
+"stroke": "black"} },
+{ "data": 
+    { "url": "https://raw.githubusercontent.com/Vherakaey/assignment2/main/wildfire_map.csv" }, 
+"transform": 
+   [ 
+     {"filter": "Category_Selection == null || datum.Category == Category_Selection"},
+   {"filter": "datum.Year == Year_Slider"}],
+"encoding": { 
+"longitude": 
+    {"field": "X", "type": "quantitative"}, 
+"latitude": 
+    {"field": "Y", "type": "quantitative"} 
+  },
+"layer": [ 
+  { 
+"mark": "circle",
+"encoding": { 
+"color":{
+"field": "Category",
+"type":"nominal",
+"scale": 
+          { "domain": 
+          [ "Least Severe", 
+"Less Severe", 
+"Moderate", 
+"Severe", 
+"Very Severe", 
+"Extremely Severe" 
+          ], 
+"range": 
+          [ "#fdb863",
+            "#e08214",
+            "#f46d43",
+            "#d73027",
+            "#a50026",
+            "#67001f"
+ ] }
+          },
+"opacity": { "value": 0.8 },
+"size": 
+        {"field": "Acres Burned", 
+"type": "quantitative", 
+"scale":
+          {"domain": [5000,10000,20000,40000,60000,100000],
+"range":[50, 100,200,350,450,600,700], 
+"clamp": true}
+        },
+"tooltip": [
+      {"field": "Acres Burned", "type": "quantitative"},
+      {"field": "State", "type": "nominal"},
+      {"field": "Category","title":"Category"},
+      {"field":"Incident Name"}] 
+    }
+    } ] 
+} ] 
+}

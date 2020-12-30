@@ -1,0 +1,161 @@
+Country,Continent,Difference In Forest Area
+Algeria,Africa,17.8
+Angola,Africa,-5.3
+Benin,Africa,-26
+Botswana,Africa,-21.7
+Burundi,Africa,-2.9
+Cameroon,Africa,-23.5
+Central African Republic,Africa,-1.8
+Chad,Africa,-29.2
+Comoros,Africa,-25.3
+Congo,Africa,-1.8
+Djibouti,Africa,0
+Egypt,Africa,67.3
+Equatorial Guinea,Africa,-16.3
+Eritrea,Africa,-7.1
+Gabon,Africa,5.5
+Ghana,Africa,8.6
+Guinea,Africa,-12.9
+Guinea-Bissau,Africa,-11.5
+Kenya,Africa,-5.8
+Liberia,Africa,-15.8
+Madagascar,Africa,-9.1
+Malawi,Africa,-19.7
+Mali,Africa,-30.7
+Mauritania,Africa,-46.7
+Mauritius,Africa,-6
+Morocco,Africa,13.5
+Mozambique,Africa,-13
+Namibia,Africa,-21.9
+Niger,Africa,-41.9
+Nigeria,Africa,-61.8
+Senegal,Africa,-11.9
+Seychelles,Africa,0
+Sierra Leone,Africa,-0.3
+Togo,Africa,-75.4
+Tunisia,Africa,63.5
+Uganda,Africa,-59.3
+Zambia,Africa,-8.2
+Zimbabwe,Africa,-38
+Afghanistan,Asia,0
+Bahrain,Asia,145.9
+Bangladesh,Asia,-4.5
+Bhutan,Asia,35.1
+Brunei Darussalam,Asia,-8
+Cambodia,Asia,-27.9
+China,Asia,33.6
+India,Asia,10.8
+Indonesia,Asia,-23.8
+Iraq,Asia,3.4
+Israel,Asia,26.7
+Japan,Asia,0
+Jordan,Asia,-0.6
+Kazakhstan,Asia,-3.3
+Korea (Democratic People's Rep. of),Asia,-40.2
+Korea (Republic of),Asia,-4.1
+Kuwait,Asia,81.2
+Kyrgyzstan,Asia,-24.8
+Malaysia,Asia,-0.7
+Maldives,Asia,0
+Mongolia,Asia,-0.6
+Nepal,Asia,-24.7
+Oman,Asia,0
+Pakistan,Asia,-43.5
+Philippines,Asia,26.3
+Qatar,Asia,0
+Russian Federation,Asia,0.8
+Saudi Arabia,Asia,0
+Singapore,Asia,-5.5
+Sri Lanka,Asia,-9.7
+Syrian Arab Republic,Asia,32.1
+Tajikistan,Asia,1.9
+Thailand,Asia,17.3
+Timor-Leste,Asia,-30.1
+Turkey,Asia,22.8
+United Arab Emirates,Asia,32.1
+Uzbekistan,Asia,5.4
+Vietnam,Asia,67.1
+Yemen,Asia,0
+Albania,Europe,-2.3
+Andorra,Europe,0
+Armenia,Europe,-0.8
+Austria,Europe,2.6
+Azerbaijan,Europe,37.7
+Belarus,Europe,11.1
+Bosnia and Herzegovina,Europe,-1.1
+Bulgaria,Europe,17.6
+Croatia,Europe,3.8
+Cyprus,Europe,7.2
+Denmark,Europe,14.7
+Estonia,Europe,-1.4
+Finland,Europe,1.8
+France,Europe,18.5
+Georgia,Europe,2.6
+Germany,Europe,1
+Greece,Europe,23.8
+Hungary,Europe,14.3
+Iceland,Europe,213.7
+Ireland,Europe,63.4
+Italy,Europe,23.2
+Latvia,Europe,5.8
+Liechtenstein,Europe,6.2
+Lithuania,Europe,12.3
+Malta,Europe,0
+Montenegro,Europe,32.1
+Netherlands,Europe,9.4
+Norway,Europe,-0.1
+Poland,Europe,6.5
+Portugal,Europe,-7.8
+Romania,Europe,8.4
+San Marino,Europe,0
+Serbia,Europe,9.9
+Slovenia,Europe,5.1
+Spain,Europe,33.6
+Sweden,Europe,0.8
+Switzerland,Europe,9.3
+Ukraine,Europe,4.4
+United Kingdom,Europe,13.8
+Antigua and Barbuda,North America,-4.9
+Bahamas,North America,0
+Barbados,North America,0
+Belize,North America,-15.8
+Canada,North America,-0.4
+Cuba,North America,63.2
+Dominica,North America,-13.9
+Dominican Republic,North America,82.5
+El Salvador,North America,-30.9
+Grenada,North America,0
+Guatemala,North America,-26.2
+Haiti,North America,-17.1
+Honduras,North America,-45
+Jamaica,North America,-2.8
+Mexico,North America,-5.5
+Nicaragua,North America,-31
+Panama,North America,-8.7
+Saint Kitts and Nevis,North America,0
+Saint Lucia,North America,-7.2
+Saint Vincent and the Grenadines,North America,8
+Trinidad and Tobago,North America,-1.9
+United States,North America,2.7
+Australia,Oceania,-2.8
+Fiji,Oceania,7.3
+Kiribati,Oceania,0
+Nauru,Oceania,0
+New Zealand,Oceania,5.1
+Papua New Guinea,Oceania,-0.2
+Samoa,Oceania,31.5
+Solomon Islands,Oceania,-6.2
+Tonga,Oceania,0
+Tuvalu,Oceania,0
+Vanuatu,Oceania,0
+Argentina,South America,-22.9
+Brazil,South America,-9.9
+Chile,South America,18.2
+Colombia,South America,-9.2
+Ecuador,South America,-5
+Guyana,South America,-0.9
+Paraguay,South America,-29.1
+Peru,South America,-5.3
+Suriname,South America,-0.7
+Uruguay,South America,134.1
+Venezuela (Bolivarian Republic of),South America,-10.6

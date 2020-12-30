@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+    <!-- Import vega-embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <link rel="stylesheet" href="style.css">
+    <!-- Import vega-embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <!-- Import pure.css -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap" rel="stylesheet">
+
+
+  </head>
+  <title>Global Warming</title>
+
+  <body>
+    <div class="bg">
+    <div class="topTitle">
+      CLIMATE CHANGE & GLOBAL WARMING
+    </div>
+    <div class="subTitle1">
+      Its real. And its happening. 
+    </div>
+    <div class="subTitle2">
+    Global warming is the <b>long-term heating</b> of Earth's climate system observed since the pre-industrial period due to human activities. Climate change not only involves changes in Earth's temperature, but it also encompasses extreme weather events, rising sea levels, endangering wildlife populations and many other grave effects (NRDC,2016). More than one third of our plants animals and plants face being <b>extinct by 2050</b> and up to 70 percent by the end of the century. Such events would be <b>irreversible</b> and have a catastrophic aftermath.
+    </div>
+    <!-- pure grid group -->
+    <div class="subTitle3">
+      Effects of Global Warming
+    </div>
+    <div class="first-map"> 
+            <div id="vis1" class="vis-container"></div>
+    </div>
+    <div class="description1">
+      As we can see, there has been many wildfire events from the years 2008 to 2018. Wildfires are just one example of extreme events caused by climate change. Wildfires are a result of changes in climate which include <b>warmer and drier</b> weather. The United States of America is no stranger to wildfires as nearly <b>72000 wildfires</b> occur on average per year (EPA, 2016).
+    </div>
+
+<hr style="width:80%;text-align:middle;margin-left:auto margin-right: auto">
+
+
+
+<div class="second-map">
+  <div id="vis2" class="vis-container"></div>
+</div>
+<div class="description2">
+A temperature anomaly is the difference from an average or baseline temperature. As we can observe, the global temperature anomaly has increased over the years. The planet is warming to a temperature not many species can handle. 
+</div>
+
+<div class="title2">
+  Causes of Global Warming
+</div>
+
+<div class="fifth-map">
+  <div id="vis4" class="vis-container"></div>
+  <div id="vis7" class="vis-container"></div>
+</div>
+
+<div class="description4">
+  Greenhouse gases include carbon dioxide, methane and nitrous oxides (NASA,2020). Carbon dioxide (Co2) is the primary greenhouse gas emitted through human activities.
+</div>
+
+<div class="description5">
+The amount of Co2 Emissions produced keeps increasing year after year as more countries get more developed. <b>Developing countries </b> are responsible for<b> 63 percent </b> of current Carbon Emissions (CGD, 2016). The largest sector contributing to the emissions of greenhouse gases is the <b> electricity and heat production </b> sector. The combustion of fossil fuels are needed to generate heat to power steam turbines.
+</div>
+	   
+<hr style="width:80%;text-align:middle;margin-left:auto margin-right: auto; margin-bottom: 16px;">
+
+<div class="third-map">
+  <div id="vis5" class="fourth-map"></div>
+  <div id="vis6" class="vis-container"></div>
+</div>
+
+ <div class="description3">
+      When it comes to fighting global warming, <b>reforestation</b> is the key . Forests help <b>stabilise the climate </b>. As we can see however, the forest area of many countries have changed significantly from 1990 to 2016, worsening the situation of our climate.
+      <br> <br>
+      The meat industry on the other hand also contributes to global warming. Beef especially emits <b>methane</b> when processed and creates roughly <b>4 to 8</b> times the emissions from pork, chicken and egg. It also has a larger climate footprint compared to other proteins.
+</div>
+
+ <div class="endingDescription">
+     <br> <br> <br>Web Page by: Vhera Kaey Vijayaraj.<br> <br>
+      Source of data: https://ourworldindata.org, <br>https://data-nifc.opendata.arcgis.com/datasets/wildfire-perimeters,<br>https://data.giss.nasa.gov/gistemp/,<br> https://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/, <br> https://data.worldbank.org/indicator/SP.POP.TOTL
+, http://hdr.undp.org/en/data# and https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data
+
+</div>
+
+</div>
+
+
+
+
+
+</body>
+
+    <script type="text/javascript">
+      var map = "https://vherakaey.github.io/assignment2/map.vg.json";
+      var heatMap = "https://vherakaey.github.io/assignment2/heat_map.vg.json";
+      var bubbleChart = "https://vherakaey.github.io/assignment2/bubbleChart.vg.json";
+      var box_plot = "https://vherakaey.github.io/assignment2/boxPlot.vg.json";
+      var line_bar = "https://vherakaey.github.io/assignment2/area_bar_chart.vg.json";
+			var donut = "https://vherakaey.github.io/assignment2/donut.vg.json"
+
+      vegaEmbed('#vis1', map, {
+        "actions": false
+      }).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+
+      vegaEmbed('#vis2', heatMap, {
+        "actions": false
+      }).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+
+      vegaEmbed('#vis4', bubbleChart, {
+        "actions": false
+      }).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+
+      vegaEmbed('#vis5', box_plot, {
+        "actions": false
+      }).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      
+      vegaEmbed('#vis6', line_bar, {
+        "actions": false
+      }).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      
+      vegaEmbed('#vis7', donut, {
+        "actions": false
+      }).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+
+    </script>
+
+</html>
+

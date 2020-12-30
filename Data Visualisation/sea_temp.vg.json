@@ -1,0 +1,25 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Global Ocean temperatures",
+  "height":300,
+  "width":500,
+  "background": "#f6f4f3",
+  "data": {"url": "https://raw.githubusercontent.com/Vherakaey/assignment2/main/sea_temp.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Year", "type": "ordinal",
+      "axis": false
+    },
+    "y": {
+      "field": "Value", "type":"quantitative"
+    },
+    "color":{"condition":{"test":"datum.Value < 0","value":"#a6bddb"}, "value":"#fc9272"},
+    "tooltip":[{"field":"Year","type": "ordinal"},
+              {"field":"Value","type":"quantitative"}]
+     
+  }
+  
+}
+

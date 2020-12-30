@@ -1,0 +1,91 @@
+Continent,Min,Max,Median,Q1,Q3,Country Outliers,Continent Outliers,Outliers
+Asia,-43.5,145.9,0,-5,20.05,Angola,Africa,-5.3
+Europe,-7.8,213.7,6.5,0.9,14.5,Burundi,Africa,-2.9
+,,,,,,Central African Republic,Africa,-1.8
+North America,-45,82.5,-3.85,-15.325,0,Congo,Africa,-1.8
+South America,-29.1,134.1,-5.3,-10.25,-0.8,Djibouti,Africa,0
+Ocenia,-6.2,31.5,0,-0.1,2.55,Egypt,Africa,67.3
+Africa,-75.4,67.3,-11.7,-24.85,-11.7,Eritrea,Africa,-7.1
+Global,-75.4,213.7,0,-9.125,8.1,Gabon,Africa,5.5
+,,,,,,Ghana,Africa,8.6
+,,,,,,Guinea-Bissau,Africa,-11.5
+,,,,,,Kenya,Africa,-5.8
+,,,,,,Madagascar,Africa,-9.1
+,,,,,,Mauritius,Africa,-6
+,,,,,,Morocco,Africa,13.5
+,,,,,,Seychelles,Africa,0
+,,,,,,Sierra Leone,Africa,-0.3
+,,,,,,Tunisia,Africa,63.5
+,,,,,,Zambia,Africa,-8.2
+,,,,,,Bahrain,Asia,145.9
+,,,,,,Bhutan,Asia,35.1
+,,,,,,China,Asia,33.6
+,,,,,,Israel,Asia,26.7
+,,,,,,Kuwait,Asia,81.2
+,,,,,,Philippines,Asia,26.3
+,,,,,,Syrian Arab Republic,Asia,32.1
+,,,,,,Turkey,Asia,22.8
+,,,,,,United Arab Emirates,Asia,32.1
+,,,,,,Vietnam,Asia,67.1
+,,,,,,Azerbaijan,Europe,37.7
+,,,,,,Bulgaria,Europe,17.6
+,,,,,,Denmark,Europe,14.7
+,,,,,,France,Europe,18.5
+,,,,,,Greece,Europe,23.8
+,,,,,,Iceland,Europe,213.7
+,,,,,,Ireland,Europe,63.4
+,,,,,,Italy,Europe,23.2
+,,,,,,Montenegro,Europe,32.1
+,,,,,,Spain,Europe,33.6
+,,,,,,Cuba,North America,63.2
+,,,,,,Dominican Republic,North America,82.5
+,,,,,,Saint Vincent and the Grenadines,North America,8
+,,,,,,United States,North America,2.7
+,,,,,,Fiji,Oceania,7.3
+,,,,,,New Zealand,Oceania,5.1
+,,,,,,Samoa,Oceania,31.5
+,,,,,,Chile,South America,18.2
+,,,,,,Suriname,South America,-0.7
+,,,,,,Uruguay,South America,134.1
+,,,,,,Benin,Africa,-26
+,,,,,,Chad,Africa,-29.2
+,,,,,,Comoros,Africa,-25.3
+,,,,,,Mali,Africa,-30.7
+,,,,,,Mauritania,Africa,-46.7
+,,,,,,Niger,Africa,-41.9
+,,,,,,Nigeria,Africa,-61.8
+,,,,,,Togo,Africa,-75.4
+,,,,,,Uganda,Africa,-59.3
+,,,,,,Zimbabwe,Africa,-38
+,,,,,,Brunei Darussalam,Asia,-8
+,,,,,,Cambodia,Asia,-27.9
+,,,,,,Indonesia,Asia,-23.8
+,,,,,,Korea (Democratic People's Rep. of),Asia,-40.2
+,,,,,,Kyrgyzstan,Asia,-24.8
+,,,,,,Nepal,Asia,-24.7
+,,,,,,Pakistan,Asia,-43.5
+,,,,,,Singapore,Asia,-5.5
+,,,,,,Sri Lanka,Asia,-9.7
+,,,,,,Timor-Leste,Asia,-30.1
+,,,,,,Albania,Europe,-2.3
+,,,,,,Andorra,Europe,0
+,,,,,,Armenia,Europe,-0.8
+,,,,,,Bosnia and Herzegovina,Europe,-1.1
+,,,,,,Estonia,Europe,-1.4
+,,,,,,Malta,Europe,0
+,,,,,,Norway,Europe,-0.1
+,,,,,,Portugal,Europe,-7.8
+,,,,,,San Marino,Europe,0
+,,,,,,Sweden,Europe,0.8
+,,,,,,Belize,North America,-15.8
+,,,,,,El Salvador,North America,-30.9
+,,,,,,Guatemala,North America,-26.2
+,,,,,,Haiti,North America,-17.1
+,,,,,,Honduras,North America,-45
+,,,,,,Nicaragua,North America,-31
+,,,,,,Australia,Oceania,-2.8
+,,,,,,Papua New Guinea,Oceania,-0.2
+,,,,,,Solomon Islands,Oceania,-6.2
+,,,,,,Argentina,South America,-22.9
+,,,,,,Paraguay,South America,-29.1
+,,,,,,Venezuela (Bolivarian Republic of),South America,-10.6
