@@ -1,0 +1,73 @@
+cout << "Difficulty levels:" << endl;
+	cout << "--------------------------------------------------------" << endl;
+	cout << "[1] Space Cadet (4 things to guess, 10 chances)\n";
+	cout << "[2] Cosmic Commander (5 things to guess, 12 chances)\n";
+	cout << "[3] Galactic Hero (6 things to guess, 14 chances)\n";
+	cout << "--------------------------------------------------------" << endl;
+
+	string difficulty;
+	bool flag = false;
+	while (flag == false) {
+		cout << "What would be your preffered difficulty level?" << endl;
+		cin >> difficulty;
+		player->setDifficulty(difficulty);
+		if (player->getDifficulty() == "1") {
+			cout << "Ah, good choice young Space Cadet!\n";
+			level = "Space Cadet";
+			(*board).setRows(10);
+			(*board).setCol(4);
+			flag = true;
+		}
+		else if (player->getDifficulty() == "2") {
+			cout << "Up for some friendly challenge are we, Cosmic Commander!\n";
+			level = "Cosmic Commander";
+			(*board).setRows(12);
+			(*board).setCol(5);
+			flag = true;
+		}
+		else if (player->getDifficulty() == "3"){
+			cout << "My my, get ready for some mind-boggling code breaking, Galactic Hero!\n";
+			level = "Galactic Hero";
+			(*board).setRows(14);
+			(*board).setCol(6);
+			flag = true;
+		}
+		else {
+			cout << "Please enter the option 1,2 or 3 only !\n";
+		}
+		
+	}
+	cout << "Types of Elements:" << endl;
+	cout << "--------------------------------------------------------" << endl;
+	cout << "[1] Alphabets: [G,B,R,O,Y,P,W]" << endl;
+	cout << "[2] Symbols: [@,#,$,&,!,>,?]" << endl;
+	cout << "[3] Numbers: [1,2,3,4,5,6,7]" << endl;
+	cout << "[4] Words: lowercase letters [a-z]" << endl;
+	cout << "--------------------------------------------------------" << endl;
+
+	bool flag2 = false;
+	while (flag2 == false) {
+		cout << "What would be the elements you want to use?" << endl;
+		cin >> elements;
+		if (elements == "1") {
+			elements = "1";
+			flag2 = true;
+		}
+		else if (elements == "2") {
+			elements = "2";
+			flag2 = true;
+		}
+		else if (elements == "3") {
+			elements = "3";
+			flag2 = true;
+		}
+		else if (elements == "4") {
+			elements = "4";
+			flag2 = true;
+		}
+		else {
+			cout << "Please enter the option 1,2 or 3 only !\n";
+		}
+
+	}
+}

@@ -1,0 +1,6 @@
+﻿  ApplicationFile.cpp
+C:\Users\Vhera Kaey\Desktop\VheraKaeyVijayarajA3\ApplicationFile.cpp(380,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Vhera Kaey\Desktop\VheraKaeyVijayarajA3\ApplicationFile.cpp(305): warning C4715:  'quitMission': not all control paths return a value
+C:\Users\Vhera Kaey\Desktop\VheraKaeyVijayarajA3\ApplicationFile.cpp(276): warning C4715:  'resignMission': not all control paths return a value
+C:\Users\Vhera Kaey\Desktop\VheraKaeyVijayarajA3\ApplicationFile.cpp(355): warning C4715:  'restartGame': not all control paths return a value
+  VheraKaeyVijayarajA3.vcxproj -> C:\Users\Vhera Kaey\Desktop\VheraKaeyVijayarajA3\Debug\VheraKaeyVijayarajA3.exe

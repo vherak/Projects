@@ -1,0 +1,9 @@
+-------------------------
+    Pick an option:
+-------------------------
+[1] Make a Guess
+[2] Help (Rules)
+[3] Get a Hint from Zhu
+[4] Resign Mission
+[5] Quit Mission
+-------------------------
